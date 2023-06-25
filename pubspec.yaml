@@ -1,7 +1,7 @@
 name: flutter_modified
 description: A slightly modified version of the base packages in Flutter
 version: 0.0.1
-homepage:
+repository: https://github.com/skylon07/flutter_modified
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
